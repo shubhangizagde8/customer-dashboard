@@ -1,0 +1,11 @@
+src/
+|-- components/
+|   |-- Dashboard.js
+|   |-- Login.js
+|   |-- Menu.js
+|   |-- CustomerList.js
+|   |-- CustomerForm.js
+|-- services/
+|   |-- customerService.js
+|-- App.js
+|-- index.js
